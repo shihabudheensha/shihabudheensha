@@ -32,25 +32,25 @@
 </p>
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/">
+  <a href="https://dotnet.microsoft.com/" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://dotnet.microsoft.com/">
+  <a href="https://dotnet.microsoft.com/" style="text-decoration: none !important;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" style="vertical-align:top; margin:4px;height:60px;">
   </a>
-  <a href="https://angular.io">
+  <a href="https://angular.io" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="">
+  <a href="" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://hub.docker.com/">
+  <a href="https://hub.docker.com/" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.github.com">
+  <a href="https://www.github.com" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.git.com">
+  <a href="https://www.git.com" style="text-decoration: none !important;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
 </p>
